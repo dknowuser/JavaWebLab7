@@ -1,0 +1,2 @@
+serviceClass: edu.etu.web.client.GreetingService
+path: 4ADCC7233A7C1E5D319A7E729EE87C94.gwt.rpc

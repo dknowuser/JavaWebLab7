@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"edu.etu.web.server","l":"GreetingServiceImpl"}]

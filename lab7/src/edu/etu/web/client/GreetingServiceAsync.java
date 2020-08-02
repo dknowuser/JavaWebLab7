@@ -1,0 +1,17 @@
+package edu.etu.web.client;
+
+import java.util.List;
+
+import com.google.gwt.user.client.rpc.AsyncCallback;
+
+import edu.etu.web.shared.Customer;
+
+/**
+ * The async counterpart of <code>GreetingService</code>.
+ */
+public interface GreetingServiceAsync {
+	void greetServer(String input, AsyncCallback<String> callback) throws IllegalArgumentException;
+	
+	void getCustomerList(AsyncCallback<List<String>> callback);
+	void getShopReaderList(String readerFIO, AsyncCallback<List<Customer>> callback);
+}

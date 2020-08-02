@@ -1,0 +1,5 @@
+package edu.etu.web.shared;
+
+public class Customer {
+
+}

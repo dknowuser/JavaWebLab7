@@ -1,0 +1,9 @@
+2019-02-23 20:58:39,890 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-23 21:23:23,048 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-23 21:26:35,480 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.jar
+2019-02-23 21:26:36,040 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.jar
+2019-02-23 21:26:36,488 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/appengine/appengine-api-1.0-sdk/1.9.71/appengine-api-1.0-sdk-1.9.71.jar
+2019-02-23 21:28:52,506 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/appengine/appengine-api-1.0-sdk/1.9.71/appengine-api-1.0-sdk-1.9.71.jar
+2019-02-23 21:28:53,333 [Worker-18: Downloading sources for lab7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/appengine/appengine-api-1.0-sdk/1.9.71/appengine-api-1.0-sdk-1.9.71-sources.jar
+2019-02-25 18:03:58,526 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-25 19:10:17,093 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

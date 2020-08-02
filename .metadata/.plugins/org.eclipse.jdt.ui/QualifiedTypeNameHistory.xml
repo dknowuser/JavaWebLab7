@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.google.gwt.user.client.ui.ListBox"/>
+<fullyQualifiedTypeName name="com.google.gwt.user.client.ui.MultiWordSuggestOracle"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="com.google.gwt.user.cellview.client.CellTable"/>
+<fullyQualifiedTypeName name="com.google.gwt.user.cellview.client.TextColumn"/>
+<fullyQualifiedTypeName name="com.google.gwt.user.cellview.client.HasKeyboardSelectionPolicy.KeyboardSelectionPolicy"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="edu.etu.web.shared.Customer"/>
+<fullyQualifiedTypeName name="com.gargoylesoftware.htmlunit.javascript.host.Map"/>
+<fullyQualifiedTypeName name="com.google.gwt.dev.util.collect.HashMap"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="cern.colt.Arrays"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+</qualifiedTypeNameHistroy>
